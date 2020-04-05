@@ -8,7 +8,7 @@ class App extends React.Component {
             .get('https://api.unsplash.com/search/photos', {
                 params: { query: term },
                 headers: {
-                    Authorization: 'Client-ID YZyUJCUcuE3L6G4ZHnCcbWHson-Y42U7vcsLdxihFRk',
+                    Authorization: 'Client-ID ',
                 },
             })
             .then((response) => {
