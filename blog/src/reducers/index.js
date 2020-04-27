@@ -1,5 +1,8 @@
 import { combineReducers } from 'redux'
+import postsReducer from './postsReducer'
+import usersReducer from './usersReducer'
 
 export default combineReducers({
-    replaceMe: () => 'MOCK REDUCERS'
+    posts: postsReducer,
+    users: usersReducer
 })
