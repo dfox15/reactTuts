@@ -46,9 +46,9 @@ test('renders counter display', () => {
 })
 
 test('counter starts at 0', () => {
-    const wrapper = shallow(<App />)
-    const appComponent = wrapper.find("[data-test='component-app']")
-    expect(appComponent.length).toBe(1)
+    const wrapper = setup()
+    const initialCounterState = wrapper.state('counter')
+    expect(initialCounterState).toBe(0)
 })
 
 test('clicking button increments counter display', () => {})
