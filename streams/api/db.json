@@ -2,12 +2,12 @@
   "streams": [
     {
       "title": "My Stream",
-      "description": "This is a great stream",
+      "description": "This stream is great",
       "id": 1
     },
     {
       "title": "Other Stream",
-      "description": "Here's some stream",
+      "description": "Here's another stream",
       "id": 2
     }
   ]
