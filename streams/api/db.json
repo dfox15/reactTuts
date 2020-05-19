@@ -15,6 +15,18 @@
       "description": "This is the stream I created!!!!",
       "userId": "111453535519276144983",
       "id": 3
+    },
+    {
+      "title": "Unexpected Behavior",
+      "description": "Didn't expect that!",
+      "userId": "111453535519276144983",
+      "id": 4
+    },
+    {
+      "title": "Programmatic navigation",
+      "description": "You should not see this on the form page!!!!",
+      "userId": "111453535519276144983",
+      "id": 5
     }
   ]
 }
