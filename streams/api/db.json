@@ -12,7 +12,7 @@
     },
     {
       "title": "User Created Stream",
-      "description": "This is the stream I created!!!!",
+      "description": "This change was made by a patch request",
       "userId": "111453535519276144983",
       "id": 3
     },
