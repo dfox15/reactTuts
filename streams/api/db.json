@@ -1,20 +1,26 @@
 {
-    "streams": [
-        {
-            "title": "My Stream",
-            "description": "This stream is great",
-            "id": 1
-        },
-        {
-            "title": "Other Stream",
-            "description": "Here's another stream",
-            "id": 2
-        },
-        {
-            "title": "User Created Stream",
-            "description": "This is the stream I created!!!!",
-            "userId": "111453535519276144983",
-            "id": 3
-        }
-    ]
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This stream is great",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's another stream",
+      "id": 2
+    },
+    {
+      "title": "User Created Stream",
+      "description": "This is the stream I created!!!!",
+      "userId": "111453535519276144983",
+      "id": 3
+    },
+    {
+      "title": "Me Streaming Component Reuse!",
+      "description": "Watch me refactor some component",
+      "userId": "111453535519276144983",
+      "id": 4
+    }
+  ]
 }
