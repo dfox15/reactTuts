@@ -13,6 +13,7 @@ class App extends React.Component {
             <div className='ui container'>
                 <div>
                     Select a language:
+                    <br></br>
                     <i className='flag us' onClick={() => this.onLanguageChange('english')} />
                     <i className='flag nl' onClick={() => this.onLanguageChange('dutch')} />
                 </div>
