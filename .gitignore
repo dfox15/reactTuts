@@ -10,7 +10,7 @@
 
 # production
 /build
-fullStackProj/server/config/dev.js
+fullStack/server/config/dev.js
 
 # misc
 .DS_Store
